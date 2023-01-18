@@ -9,7 +9,7 @@
 - Python: data collection/processing/visualisation  
   
 
-- CAD: SolidWorks, NX  
+- CAD: SolidWorks, NX, Catia
   
 
 - CAE: MoldFlow, NX, FormLabs  
@@ -18,7 +18,7 @@
 - Lab related skills: DSC, WAXS, FTIR SEM  
   
 
-- Somewhat know: Blender, Photoshop, PowerBI, KeyShot  
+- Somewhat know: Blender, Photoshop, PowerBI, KeyShot, SQL, Arduino
   
 
 <br/>  
