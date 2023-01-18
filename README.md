@@ -15,7 +15,7 @@
 - CAE: MoldFlow, NX, FormLabs  
   
 
-- Lab related skills: DSC, WAXS, FTIR SEM  
+- Lab related skills: DSC, WAXS, FTIR, SEM  
   
 
 - Somewhat know: Blender, Photoshop, PowerBI, KeyShot, SQL, Arduino
