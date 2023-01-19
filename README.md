@@ -12,7 +12,7 @@
 - CAD: SolidWorks, NX, Catia
   
 
-- CAE: MoldFlow, NX, FormLabs  
+- CAE: MoldFlow, NX, AutoForm  
   
 
 - Lab related skills: DSC, WAXS, FTIR, SEM  
