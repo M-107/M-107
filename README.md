@@ -18,7 +18,7 @@
 - Lab related skills: DSC, WAXS, FTIR, SEM  
   
 
-- Somewhat know: Blender, Photoshop, PowerBI, KeyShot, SQL, Arduino
+- Somewhat know: Blender, Photoshop, PowerBI, KeyShot, PostgreSQL, Arduino
   
 
 <br/>  
